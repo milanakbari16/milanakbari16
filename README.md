@@ -117,7 +117,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "www.linkedin.com/in/milan-akabari/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/milan-akabari/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/MilanPatel1603"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "mailto:milan.akbari16@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
 <a href = "https://www.instagram.com/milan_patel.16/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
